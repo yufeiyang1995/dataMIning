@@ -1,6 +1,6 @@
 # dataMIning
 
-## input data:
+## input data
 
 modify the file name in dataMining/readFile.java
 input format such as:test.csv
