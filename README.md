@@ -2,8 +2,9 @@
 
 ## input data
 
-modify the file name in dataMining/readFile.java
-input format such as:test.csv
+modify the file name in dataMining/readFile.java to run the program
+
+data file input format such as:test.csv
 
 ## code description
 the project completes the apriori algorithm，the fpGrowth algorithm，and the exhaustive search algorithm
